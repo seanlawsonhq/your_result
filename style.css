@@ -163,7 +163,7 @@ body {
 
 .memo p {
   font-size: 18px;
-  color: hsla(224, 30%, 27% 0.5);
+  color: grey;
   font-weight: 700;
 }
 
