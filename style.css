@@ -44,7 +44,7 @@ body {
   /* border: 3px solid gold; */
   margin-top: 150px;
   color: var(0, 0%, 100%);
-  box-shadow: 5px 20px 30px rgba(221, 100%, 96% 0.1);
+  box-shadow: 10px 10px 30px var(--Light-lavender);
   border-radius: 30px;
   font-family: "Hanken Grotesk", sans-serif;
 }
@@ -88,7 +88,8 @@ body {
 }
 
 .circle {
-  background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+  background: linear-gradient(red, hsla(241, 72%, 46%, 0));
+  /* background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0)); */
   width: 200px;
   height: 200px;
   margin: 30px auto;
